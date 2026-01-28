@@ -18,15 +18,6 @@ Segurança da Informação.
 - Python
 - Git e GitHub
 
-## Estrutura do Projeto
-
-cybersecurity-log-monitoring
-├── logs/
-├── scripts/
-├── reports/
-├── docs/
-└── README.md
-
 ## Funcionamento
 1. Logs de autenticação são analisados
 2. Tentativas suspeitas são identificadas
